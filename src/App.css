@@ -1,0 +1,13 @@
+#root {
+  padding: 1rem;
+  overflow-x: scroll;
+}
+
+.myScroll {
+  overflow: auto;
+  
+}
+
+.cardWidth{
+  width: 500px;
+}
